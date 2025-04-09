@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimmir Miranda</h1>
-<h3 align="center">A passionate Full-stack/ developer from the Philippines</h3>
+<h3 align="center">A passionate Full-stack/Mobile/Game/Security/AI/Software developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugarylatics1&label=Profile%20views&color=0e75b6&style=flat" alt="sugarylatics1" /> </p>
 
