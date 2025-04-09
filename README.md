@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI, generative transformers.**
 
-- 👨‍💻 All of my projects are available at [Sugarylatics1.github.io](Sugarylatics1.github.io)
+- 👨‍💻 All of my projects are available at [Sugarylatics1.github.io](https://Sugarylatics1.github.io/)
 
 - 💬 Ask me about **Anything as long as it's not centering a div.**
 
