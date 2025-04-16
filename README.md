@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything as long as it's not centering a div.**
 
-- 📫 How to reach me **jimmirmirnda@gmail.com**
+- 📫 How to reach me **sugarylatics1@gmail.com**
 
 - ⚡ Fun fact **I like to overthink.**
 
