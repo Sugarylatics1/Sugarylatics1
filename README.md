@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Sugarylatics1.github.io](https://Sugarylatics1.github.io/)
 
-- 💬 Ask me about **Anything as long as it's not centering a div.**
+- 💬 Ask me about **anything.**
 
 - 📫 How to reach me **sugarylatics1@gmail.com**
 
